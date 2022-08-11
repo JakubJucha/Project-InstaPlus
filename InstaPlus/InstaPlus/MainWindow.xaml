@@ -1,0 +1,26 @@
+﻿<Window x:Class="PBD_działające__y_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="371" Width="836" MinWidth="800" MinHeight="350" MaxWidth="99999" MaxHeight="99999">
+    <Grid Margin="0,0,0,1" Background="#FFFBB3FF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Instagram +" HorizontalAlignment="Left" Margin="79,42,0,0" VerticalAlignment="Top" Width="203" HorizontalContentAlignment="Center" FontFamily="Rockwell Extra Bold" FontSize="25" Height="56" Foreground="#FF0027FF"/>
+        <TextBox x:Name="txtLoginLogowanie" HorizontalAlignment="Left" Height="40" Margin="77,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" HorizontalContentAlignment="Center" Background="#FF91A2FF" Text="Login" FontSize="20" GotFocus="txtLoginLogowanie_GotFocus" BorderBrush="#FF0027FF"/>
+        <PasswordBox x:Name="txtHasloLogowanie" HorizontalAlignment="Left" Margin="77,164,0,0" VerticalAlignment="Top" Width="205" Height="43" HorizontalContentAlignment="Center" Background="#FF91A2FF" PasswordChar="●" Password="haslo" FontSize="20" GotFocus="txtHasloLogowanie_GotFocus" BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnZaloguj" Content="Zaloguj się!" HorizontalAlignment="Left" Margin="111,217,0,0" VerticalAlignment="Top" Width="137" Height="44" Click="btnZaloguj_Click" HorizontalContentAlignment="Center" Background="#FF4965FF" FontSize="20" BorderBrush="#FF0027FF"/>
+        <Label Content="Nie masz konta? " HorizontalAlignment="Left" Margin="19,277,0,0" VerticalAlignment="Top" Width="171" HorizontalContentAlignment="Center" FontStyle="Normal" FontWeight="Regular" Height="45" FontSize="20"/>
+        <Label x:Name="lblRejestracja" Content="Zarejestruj się!" HorizontalAlignment="Left" Margin="190,280,0,0" VerticalAlignment="Top" Width="176" FontFamily="Bookman Old Style" Background="{x:Null}" Foreground="#FF0027FF" MouseLeftButtonUp="Label_MouseLeftButtonUp" HorizontalContentAlignment="Center" FontWeight="Normal" MouseEnter="lblRejestracja_MouseEnter" MouseLeave="lblRejestracja_MouseLeave" Height="43" FontSize="20"/>
+        <Image HorizontalAlignment="Left" Height="210" Margin="348,51,0,0" VerticalAlignment="Top" Width="442" Source="/Zdjęcia/szczęśliwi-ludzie-śmieszne.png"/>
+        <Rectangle HorizontalAlignment="Left" Height="210" Margin="348,51,0,0" Stroke="#FF0027FF" VerticalAlignment="Top" Width="442" StrokeThickness="2"/>
+        <Label Content="Login" HorizontalAlignment="Left" Margin="73,84,0,0" VerticalAlignment="Top" AllowDrop="True" Height="28" Width="40"/>
+        <Label Content="Hasło" HorizontalAlignment="Left" Margin="73,144,0,0" VerticalAlignment="Top" AllowDrop="True" Height="28" Width="40"/>
+        <Image HorizontalAlignment="Left" Height="54" Margin="28,42,0,0" VerticalAlignment="Top" Width="51" Source="/Zdjęcia/PogChamp.png"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,51 @@
+﻿<Window x:Class="PBD_działające__y_.instagram"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+        Title="instagram" Height="720.876" Width="1185.714">
+    <Grid Background="#FFFBB3FF">
+        <Label x:Name="lblWitajTEst" Content="" HorizontalAlignment="Left" Margin="75,38,0,0" VerticalAlignment="Top" Height="32" Width="396"/>
+        <Label Content="Witaj" HorizontalAlignment="Left" Margin="75,0,0,0" VerticalAlignment="Top" Height="45" Width="84" FontSize="25"/>
+        <Label x:Name="lblImieNazwisko" Content="" HorizontalAlignment="Left" Margin="159,0,0,0" VerticalAlignment="Top" Width="284" Height="45" FontSize="25"/>
+        <Button x:Name="btnProfil" Content="Profil" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top" Width="149" Height="36" FontSize="20" Click="btnProfil_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnKupVIP" Content="KUP VIP" HorizontalAlignment="Left" Margin="1067,9,0,0" VerticalAlignment="Top" Width="102" Height="48" FontSize="20" Click="btnKupVIP_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnWyloguj" Content="Wyloguj się" HorizontalAlignment="Left" Margin="1039,640,0,0" VerticalAlignment="Top" Width="130" Height="41" FontSize="20" Click="btnWyloguj_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Label Content="Wyszukaj:" HorizontalAlignment="Left" Margin="443,4,0,0" VerticalAlignment="Top" Height="42" Width="113" FontSize="20" RenderTransformOrigin="0.551,0.488"/>
+        <TextBox x:Name="txtWyszukiwarka" HorizontalAlignment="Left" Height="45" Margin="443,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="354" FontSize="20" TextChanged="txtWyszukiwarka_TextChanged" Foreground="Black" BorderBrush="#FF0027FF" Background="#FFC4CDFF"/>
+        <Button x:Name="btnWyszukiwarka" Content="Szukaj" HorizontalAlignment="Left" Margin="802,39,0,0" VerticalAlignment="Top" Width="97" Height="45" FontSize="20" Click="btnWyszukiwarka_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Image x:Name="imgZdjecie" HorizontalAlignment="Left" Height="60" Margin="10,9,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button x:Name="btnDodajPost" Content="Dodaj post" HorizontalAlignment="Left" Margin="10,132,0,0" VerticalAlignment="Top" Width="149" Height="50" FontSize="25" Click="btnDodajPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Image x:Name="imgZdjecieWPoscie" HorizontalAlignment="Left" Height="400" Margin="253,186,0,0" VerticalAlignment="Top" Width="400" AutomationProperties.IsOffscreenBehavior="FromClip"/>
+        <TextBox x:Name="txtOpisPosta" HorizontalAlignment="Left" Height="95" Margin="253,586,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="400" IsReadOnly="True" FontSize="20" BorderThickness="3,3,3,3" BorderBrush="#FF0027FF" Background="#FFC4CDFF"/>
+        <Image x:Name="imgProfiloweOPA" HorizontalAlignment="Left" Height="60" Margin="253,121,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="lblNazwaOPa" Content="" HorizontalAlignment="Left" Margin="318,121,0,0" VerticalAlignment="Top" Height="60" Width="173" FontSize="20"/>
+        <Button x:Name="btnPoprzedniPost" Content="◀" HorizontalAlignment="Left" Margin="178,332,0,0" VerticalAlignment="Top" Width="70" Height="70" FontSize="50" Click="btnPoprzedniPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnNastepnyPost" Content="▶" HorizontalAlignment="Left" Margin="1039,332,0,0" VerticalAlignment="Top" Width="70" FontSize="50" Height="70" Click="btnNastepnyPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <ListBox x:Name="lbxKomentarzeDoPosta" HorizontalAlignment="Left" Height="400" Margin="658,186,0,0" VerticalAlignment="Top" Width="376" MouseDoubleClick="lbxKomentarzeDoPosta_MouseDoubleClick" BorderBrush="#FF0027FF" BorderThickness="3,3,3,3" Background="#FFC4CDFF"/>
+        <Button x:Name="BtnDodajKomentarz" Content="Dodaj komentarz" HorizontalAlignment="Left" Margin="773,590,0,0" VerticalAlignment="Top" Width="145" Height="50" FontSize="17" Click="BtnDodajKomentarz_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnZglosPost" Content="Zgłoś post" HorizontalAlignment="Left" Margin="658,121,0,0" VerticalAlignment="Top" Width="110" Height="60" FontSize="20" Click="btnZglosPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Label x:Name="lblDataDodaniaPosta" Content="" HorizontalAlignment="Left" Margin="496,142,0,0" VerticalAlignment="Top" Width="157" Height="37" FontSize="15"/>
+        <Button x:Name="btnPolubieniePosta" Content="❤" HorizontalAlignment="Left" Margin="658,590,0,0" VerticalAlignment="Top" Width="110" Height="50" FontSize="30" Click="btnPolubieniePosta_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Label x:Name="lblIdPosta" Content="" HorizontalAlignment="Left" Margin="477,285,0,0" VerticalAlignment="Top" Height="103" Width="145" Visibility="Hidden"/>
+        <Button x:Name="btnUsunPost" Content="🚮" HorizontalAlignment="Left" Margin="157,424,0,0" VerticalAlignment="Top" Height="34" Width="91" FontSize="20" Visibility="Visible" Click="btnUsunPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnZbanujUzytkownika" Content="❌" HorizontalAlignment="Left" Margin="157,464,0,0" VerticalAlignment="Top" Height="30" Width="91" FontSize="20" Visibility="Visible" Click="btnZbanujUzytkownika_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnZachowajPost" Content="✔" HorizontalAlignment="Left" Margin="157,500,0,0" VerticalAlignment="Top" Height="30" Width="91" FontSize="20" Visibility="Visible" Click="btnZachowajPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Label x:Name="lblNieMaPostówXD" Content="&#xA;&#xA;&#xA;&#xA;&#xA;           BRAK POSTÓW &#xD;&#xA;        DO WYŚWIETLENIA" HorizontalAlignment="Left" Margin="248,121,0,0" VerticalAlignment="Top" FontSize="30" Height="565" Width="408" Visibility="Hidden" Background="#FFFBB3FF"/>
+        <Button x:Name="btnZglosKomentarz" Content="Zgłoś&#xD;&#xA;komentarz" HorizontalAlignment="Left" Margin="1039,186,0,0" VerticalAlignment="Top" Height="51" Width="94" Click="btnZglosKomentarz_Click" FontSize="16" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <RadioButton x:Name="RbUzytkownik" Content="Użytkownik" HorizontalAlignment="Left" Margin="443,91,0,0" VerticalAlignment="Top" Checked="RbUzytkownik_Checked" Visibility="Hidden"/>
+        <RadioButton x:Name="RbPost" Content="Post" HorizontalAlignment="Left" Margin="538,91,0,0" VerticalAlignment="Top" Checked="RbPost_Checked" Visibility="Hidden"/>
+        <Image x:Name="imgReklama1" HorizontalAlignment="Left" Height="495" Margin="10,186,0,0" VerticalAlignment="Top" Width="163" Source="reklama1.png" Stretch="Fill"/>
+        <Image x:Name="imgReklama2" HorizontalAlignment="Left" Height="88" Margin="799,91,0,0" VerticalAlignment="Top" Width="370" Source="reklama2.png" StretchDirection="DownOnly" Stretch="Fill"/>
+        <Button x:Name="btnUsunKom" Content="🚮" HorizontalAlignment="Left" Margin="1045,414,0,0" VerticalAlignment="Top" Height="35" Width="84" FontSize="20" Click="btnUsunKom_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnZbanujKomentujacego" Content="❌" HorizontalAlignment="Left" Margin="1045,452,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.719,-0.248" FontSize="20" Width="84" Click="btnZbanujKomentujacego_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnZachowajKom" Content="✔" HorizontalAlignment="Left" Margin="1045,487,0,0" VerticalAlignment="Top" FontSize="20" Width="84" Click="btnZachowajKom_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnMojePosty" Content="Wyświetl moje posty" HorizontalAlignment="Left" Margin="167,75,0,0" VerticalAlignment="Top" FontSize="20" Height="36" Click="btnMojePosty_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnUsunMojPost" Content="🚮" HorizontalAlignment="Left" Margin="200,254,0,0" VerticalAlignment="Top" Height="45" Width="46" FontSize="25" Click="btnUsunMojPost_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnRaport" Content="Zrób raport" HorizontalAlignment="Left" Margin="969,10,0,0" VerticalAlignment="Top" Width="93" Height="47" Click="btnRaport_Click" FontSize="16" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+    </Grid>
+</Window>

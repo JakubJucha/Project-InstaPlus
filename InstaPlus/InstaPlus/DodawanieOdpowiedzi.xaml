@@ -1,0 +1,17 @@
+﻿<Window x:Class="PBD_działające__y_.DodawanieOdpowiedzi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+       Title="DodawanieOdpowiedzi" Height="314.286" Width="281">
+    <Grid Background="#FFFBB3FF">
+        <TextBox x:Name="txtTrescOdpowiedzi" HorizontalAlignment="Left" Height="207" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" Background="#FFC4CDFF" BorderBrush="#FF0027FF"/>
+        <Button x:Name="btnDodajOdpowiedz" Content="Dodaj" HorizontalAlignment="Left" Margin="10,230,0,0" VerticalAlignment="Top" Width="96" Height="42" FontSize="25" Click="btnDodajKom_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnAnulujOdpowiedz" Content="Anuluj" HorizontalAlignment="Left" Margin="158,230,0,0" VerticalAlignment="Top" Width="96" Height="42" FontSize="25" Click="btnAnuluj_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+
+    </Grid>
+</Window>

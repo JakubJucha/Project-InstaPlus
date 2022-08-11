@@ -1,0 +1,18 @@
+﻿<Window x:Class="PBD_działające__y_.ZmianaBio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+        Title="ZmianaBio" Height="445.345" Width="540.861">
+    <Grid Background="#FFFBB3FF">
+        <TextBox x:Name="txtBio" HorizontalAlignment="Left" Height="247" Margin="10,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="514" FontSize="20" Background="#FFC4CDFF" BorderBrush="#FF0027FF"/>
+        <Label Content="Wprowadź swój nowy opis:" HorizontalAlignment="Left" Margin="8,29,0,0" VerticalAlignment="Top" Height="57" Width="426" FontSize="25"/>
+        <Button x:Name="btnAnuluj" Content="Anuluj" HorizontalAlignment="Left" Margin="10,324,0,0" VerticalAlignment="Top" Width="165" Height="61" FontSize="30" Click="btnAnuluj_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnZapiszBio" Content="Zapisz" HorizontalAlignment="Left" Margin="359,324,0,0" VerticalAlignment="Top" Width="165" Height="61" FontSize="30" Click="btnZapiszBio_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+
+    </Grid>
+</Window>

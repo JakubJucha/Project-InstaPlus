@@ -1,0 +1,18 @@
+﻿<Window x:Class="PBD_działające__y_.ZmianaProfilówki"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+        Title="ZmianaProfilówki" Height="470.214" Width="300">
+    <Grid Background="#FFFBB3FF">
+        <Image x:Name="imgZdjeciePotwierdzeniei" HorizontalAlignment="Left" Height="280" Margin="10,10,0,0" VerticalAlignment="Top" Width="280"/>
+        <Label Content="Czy chcesz ustawić &#xD;&#xA;to zdjęcie?" HorizontalAlignment="Left" Margin="10,295,0,0" VerticalAlignment="Top" Width="280" Height="73" FontSize="24"/>
+        <Button x:Name="btnTAK" Content="TAK" HorizontalAlignment="Left" Margin="177,368,0,0" VerticalAlignment="Top" Width="113" Height="63" FontSize="30" Click="btnTAK_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+          
+        <Button x:Name="btnNIE" Content="NIE" HorizontalAlignment="Left" Margin="10,368,0,0" VerticalAlignment="Top" Width="113" Height="63" FontSize="30" Click="btnNIE_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+         
+
+    </Grid>
+</Window>

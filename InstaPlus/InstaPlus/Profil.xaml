@@ -1,0 +1,33 @@
+﻿<Window x:Class="PBD_działające__y_.Profil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+        Title="Profil" Height="450" Width="458">
+    <Grid Background="#FFFBB3FF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="imgZdjecie" HorizontalAlignment="Left" Height="150" Margin="10,10,0,0" VerticalAlignment="Top" Width="150"/>
+        <Label x:Name="lblImieNazwiskoNaProfilu" Content="" HorizontalAlignment="Left" Margin="165,10,0,0" VerticalAlignment="Top" Width="251" Height="46" FontSize="25"/>
+        <Label x:Name="lblNzwaUzNaProfilu" Content="" HorizontalAlignment="Left" Margin="165,61,0,0" VerticalAlignment="Top" Height="46" Width="253" FontSize="25"/>
+        <Button x:Name="btnDodajZdj" Content="Dodaj Zdjęcie" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Width="150" Height="43" FontSize="20" Click="btnDodajZdj_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnWrocNaGłówną" Content="Wróć na stronę główną" HorizontalAlignment="Left" Margin="250,356,0,0" VerticalAlignment="Top" Width="172" Height="54" FontSize="15" Click="btnWrocNaGłówną_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnBio" Content="Zmień opis profilu" HorizontalAlignment="Left" Margin="10,213,0,0" VerticalAlignment="Top" Width="150" Height="43" FontSize="18" Click="btnBio_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnObserwuj" Content="Obserwuj" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top" Width="155" Height="43" FontSize="20" Click="btnObserwuj_Click" Visibility="Hidden" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Label x:Name="lblIlośćOsóbKtóreObserwująTenProfil" Content="" HorizontalAlignment="Left" Margin="165,213,0,0" VerticalAlignment="Top" Width="229" Height="43" FontSize="20"/>
+        <TextBox x:Name="lblBio" HorizontalAlignment="Left" Height="96" Margin="170,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="252" Background="#FFC4CDFF" BorderBrush="#FF0027FF" IsUndoEnabled="False" IsReadOnly="True"/>
+        <Button x:Name="btnNastepnyUzytkownikZTagiem" Content="▶" HorizontalAlignment="Left" Margin="10,354,0,0" VerticalAlignment="Top" Width="56" Height="56" FontSize="40" Click="btnNastepnyUzytkownikZTagiem_Click" Visibility="Hidden" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Button x:Name="btnWyjdz" Content="X" HorizontalAlignment="Left" Margin="10,368,0,0" VerticalAlignment="Top" Width="45" Height="40" FontSize="30" Visibility="Hidden" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+
+        <Image x:Name="reklama3" HorizontalAlignment="Left" Height="73" Margin="10,271,0,0" VerticalAlignment="Top" Width="380" Source="reklama3.png" Stretch="Fill"/>
+
+    </Grid>
+</Window>

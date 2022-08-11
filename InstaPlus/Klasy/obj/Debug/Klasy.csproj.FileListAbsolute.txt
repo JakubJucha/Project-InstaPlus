@@ -1,0 +1,12 @@
+C:\Users\48513\source\repos\PBD działające (y)\Klasy\bin\Debug\Klasy.dll
+C:\Users\48513\source\repos\PBD działające (y)\Klasy\bin\Debug\Klasy.pdb
+C:\Users\48513\source\repos\PBD działające (y)\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+C:\Users\48513\source\repos\PBD działające (y)\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\48513\source\repos\PBD działające (y)\Klasy\obj\Debug\Klasy.dll
+C:\Users\48513\source\repos\PBD działające (y)\Klasy\obj\Debug\Klasy.pdb
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\Klasy\bin\Debug\Klasy.dll
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\Klasy\bin\Debug\Klasy.pdb
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\Klasy\obj\Debug\Klasy.csproj.AssemblyReference.cache
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\Klasy\obj\Debug\Klasy.csproj.CoreCompileInputs.cache
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\Klasy\obj\Debug\Klasy.dll
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\Klasy\obj\Debug\Klasy.pdb

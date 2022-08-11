@@ -1,0 +1,36 @@
+Data sworzenia raportu: wtorek, 28 czerwca 2022 01:42:28
+
+Aktualna liczba użytkowników to: 6
+
+Aktualna liczba postów to: 10
+
+Aktualna liczba użyć tagów to: 17
+
+Aktualna liczba komentarzy to: 11
+
+Aktualna liczba odpowiedzi do komentarzy: 6
+
+Aktualna liczba posiadaczy VIPa: 2
+
+Aktualna liczba polubień: 12
+
+Największa ilość komentarzy do jednego posta: 4
+
+Największa ilość like do jednego posta: 5
+
+Najstarszy Vip został zakupiony: 27.06.2022 21:20:58
+
+Najnowszy Vip został zakupiony: 27.06.2022 21:49:11
+
+Najstarszy dodany komentarz: 27.06.2022 21:48:31
+
+Najnowszy dodany komentarz: 28.06.2022 00:59:46
+
+Najstarszy dodany post: 27.06.2022 21:19:12
+
+Najnowszy dodany post: 27.06.2022 21:46:43
+
+Największa liczba like zostawiona przez jednego użytkownika: 4
+
+Największa liczba komentarzy zostawiona przez jednego użytkownika: 4
+

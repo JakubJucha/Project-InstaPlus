@@ -1,0 +1,353 @@
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.SuggestedBindingRedirects.cache
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\PBD_dziaajace\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.SuggestedBindingRedirects.cache
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\j4kub\Desktop\f\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\48513\source\repos\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.SuggestedBindingRedirects.cache
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\PBD IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\jedry\OneDrive\Pulpit\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.SuggestedBindingRedirects.cache
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\j4kub\Downloads\ig\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.SuggestedBindingRedirects.cache
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\PBD PBD IG IG\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.SuggestedBindingRedirects.cache
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\j4kub\Desktop\GINALL\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe.config
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).exe
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\bin\Debug\PBD działające (y).pdb
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.dll
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\bin\Debug\Klasy.pdb
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.AssemblyReference.cache
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\App.g.cs
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.cache
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y)_MarkupCompile.lref
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieKomentarza.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\DodawanieOdpowiedzi.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\instagram.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\KupowanieVIPA.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\MainWindow.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\OdpowiedziKomentarze.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\Profil.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\Rejestracja.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\WstawianiePosta.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\ZapłataZaVIP.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaBio.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\ZmianaProfilówki.baml
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).g.resources
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD_działające__y_.Properties.Resources.resources
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.GenerateResource.cache
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CoreCompileInputs.cache
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).csproj.CopyComplete
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).exe
+C:\Users\Kapero\Desktop\STUDIA\PBD\Projekt\PBD działające (y)\PBD działające (y)\obj\Debug\PBD działające (y).pdb

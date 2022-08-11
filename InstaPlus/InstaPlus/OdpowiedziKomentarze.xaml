@@ -1,0 +1,18 @@
+﻿<Window x:Class="PBD_działające__y_.OdpowiedziKomentarze"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PBD_działające__y_"
+        mc:Ignorable="d"
+        Title="OdpowiedziKomentarze" Height="450" Width="368">
+    <Grid Background="#FFFBB3FF">
+        <Button x:Name="btnZgłośOdpowiedz" Content="Zgłoś" HorizontalAlignment="Left" Margin="282,376,0,0" VerticalAlignment="Top" FontSize="18" Height="38" Width="71" Click="btnZgłośOdpowiedz_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+            
+        <Button x:Name="btnDodajOdpowiedz" Content="Dodaj odpowiedź" HorizontalAlignment="Left" Margin="14,376,0,0" VerticalAlignment="Top" FontSize="18" Height="38" Width="160" Click="btnDodajOdpowiedz_Click" Background="#FF4965FF"  BorderBrush="#FF0027FF"/>
+            
+        <ListBox x:Name="lbxKomentarz" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="11,10,11,339" Background="#FFC4CDFF" BorderBrush="#FF0027FF"/>
+        <ListBox x:Name="lbxOdpowiedzi" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="12,102,12,60" Background="#FFC4CDFF" BorderBrush="#FF0027FF"/>
+
+    </Grid>
+</Window>
